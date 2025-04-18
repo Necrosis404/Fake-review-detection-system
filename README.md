@@ -1,3 +1,5 @@
+# Fake Review Detection
+
 Fake reviews are increasingly distorting customer choices and damaging brand credibility on online platforms, making review authenticity essential for a fair marketplace. 
 Indicators such as review content, user activity patterns, and metadata can reveal fraudulent submissions. Manual and rule‑based detection methods, however, are slow and often inaccurate. 
 Today, AI and machine learning models trained on historical data automate this process, classifying reviews as genuine or fake with high precision. 
