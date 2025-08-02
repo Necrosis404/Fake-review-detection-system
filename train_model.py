@@ -49,6 +49,8 @@ def get_sentiment(text):
 data['sentiment'] = data['cleaned_text'].apply(get_sentiment)
 print(f"Sentiment distribution:\n{data['sentiment'].value_counts()}")
 
+#--------------------MY-PART-END-----------------------------
+
 # Split the dataset
 X = data['cleaned_text']
 y = data['label']  # Assumes binary 'label' (1 = real, 0 = fake)
